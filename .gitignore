@@ -11,3 +11,21 @@ project/plugins/project/
 
 # Scala-IDE specific
 .scala_dependencies
+
+# From Koans
+project/build/target
+scalakoansexercises.iws
+scalakoansexercises.ipr
+scalakoansexercises.iml
+.*\.DS_Store
+.*\.zip
+scala-koans.iml
+scala-koans.ipr
+scala-koans.iws
+.idea*
+.classpath
+.project
+.cache
+.idea_modules
+.idea
+target
